@@ -1,6 +1,4 @@
-Sure, here's your updated README with a reference to your YouTube video "How to Integrate Flutter with Gemini API":
 
-```markdown
 # Flutter-Gemini Chatbot
 
 This repository hosts the source code for a chatbot built with Flutter and powered by the Gemini API. The project demonstrates the integration of a cutting-edge AI API within a Flutter application to facilitate AI-driven conversations.
@@ -65,6 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - A special thank you to the Gemini API for providing the AI capabilities.
 - Appreciation to the Flutter community for continuous support and inspiration.
-```
 
-This addition provides viewers and developers with a direct link to your instructional video, enriching the learning experience and offering a visual and step-by-step guide to complement the README documentation.
+
+
